@@ -6,14 +6,14 @@
 
 > 🎓 Projekt zaliczeniowy z kursu **The Complete Web Development Bootcamp** (Angela Yu, Udemy)
 
-Moja pierwsza strona internetowa 🌱 — CV w czystym HTML-u, bez ani jednej linijki CSS.
+Moja pierwsza strona internetowa: CV zbudowane w czystym HTML, bez CSS.
 
 ## 🗂️ Podstrony
 
-- 🏠 `index.html` — CV: wykształcenie, praktyki (serwis komputerowy, tworzenie stron w WordPressie), umiejętności, certyfikaty
-- 🎯 `hobbies.html` — zainteresowania
-- 📬 `contact.html` — kontakt
+- `index.html` — CV: wykształcenie, praktyki (serwis komputerowy, tworzenie stron w WordPressie), umiejętności, certyfikaty
+- `hobbies.html` — zainteresowania
+- `contact.html` — kontakt
 
 ## 🚀 Podgląd
 
-Wystarczy otworzyć `index.html` w przeglądarce.
+Otwórz `index.html` w przeglądarce.

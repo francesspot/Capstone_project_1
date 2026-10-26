@@ -6,14 +6,14 @@
 
 > 🎓 Capstone project from **The Complete Web Development Bootcamp** course (Angela Yu, Udemy)
 
-My very first website 🌱 — a CV in pure HTML, without a single line of CSS.
+My first website: a CV built in pure HTML, without CSS.
 
 ## 🗂️ Pages
 
-- 🏠 `index.html` — CV: education, internships (computer servicing, building WordPress websites), skills, certificates
-- 🎯 `hobbies.html` — hobbies
-- 📬 `contact.html` — contact details
+- `index.html` — CV: education, internships (computer servicing, building WordPress websites), skills, certificates
+- `hobbies.html` — hobbies
+- `contact.html` — contact details
 
 ## 🚀 Preview
 
-Just open `index.html` in a browser.
+Open `index.html` in a browser.
