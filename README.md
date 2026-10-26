@@ -1,17 +1,19 @@
-**Polski** | [English](README.en.md)
+🇵🇱 **Polski** | 🇬🇧 [English](README.en.md)
 
-# Capstone Project 1 — strona osobista w HTML
+# 📄 Moje CV w HTML
 
-Moja pierwsza strona internetowa, napisana w czystym **HTML** (bez CSS) jako pierwszy projekt zaliczeniowy kursu tworzenia stron. To proste, wielostronicowe CV.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-## Podstrony
+> 🎓 Projekt zaliczeniowy z kursu **The Complete Web Development Bootcamp** (Angela Yu, Udemy)
 
-- **`index.html`** — CV: podsumowanie, wykształcenie, doświadczenie zawodowe (praktyki), umiejętności, nagrody i certyfikaty,
-- **`hobbies.html`** — moje zainteresowania,
-- **`contact.html`** — dane kontaktowe.
+Moja pierwsza strona internetowa 🌱 — CV w czystym HTML-u, bez ani jednej linijki CSS.
 
-Podstrony są połączone zwykłymi odnośnikami.
+## 🗂️ Podstrony
 
-## Uruchomienie
+- 🏠 `index.html` — CV: wykształcenie, praktyki (serwis komputerowy, tworzenie stron w WordPressie), umiejętności, certyfikaty
+- 🎯 `hobbies.html` — zainteresowania
+- 📬 `contact.html` — kontakt
 
-Nie trzeba niczego budować — wystarczy otworzyć `index.html` w przeglądarce.
+## 🚀 Podgląd
+
+Wystarczy otworzyć `index.html` w przeglądarce.

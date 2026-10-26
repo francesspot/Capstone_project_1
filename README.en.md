@@ -1,17 +1,19 @@
-[Polski](README.md) | **English**
+🇵🇱 [Polski](README.md) | 🇬🇧 **English**
 
-# Capstone Project 1 — HTML Personal Site
+# 📄 My CV in HTML
 
-My first website, built in pure **HTML** (no CSS) as the first capstone project of a web development course. It is a simple multi-page CV.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-## Pages
+> 🎓 Capstone project from **The Complete Web Development Bootcamp** course (Angela Yu, Udemy)
 
-- **`index.html`** — résumé: summary, education, work experience (internships), skills, awards and certifications,
-- **`hobbies.html`** — my hobbies,
-- **`contact.html`** — contact details.
+My very first website 🌱 — a CV in pure HTML, without a single line of CSS.
 
-The pages are linked to each other with ordinary hyperlinks.
+## 🗂️ Pages
 
-## Running
+- 🏠 `index.html` — CV: education, internships (computer servicing, building WordPress websites), skills, certificates
+- 🎯 `hobbies.html` — hobbies
+- 📬 `contact.html` — contact details
 
-No build step — open `index.html` in a browser.
+## 🚀 Preview
+
+Just open `index.html` in a browser.
